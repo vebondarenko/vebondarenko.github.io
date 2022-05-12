@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>https://example.com/post/post4/</link>
+      <atom:link href="https://example.com/post/post4/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 16:16:48 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://example.com/post/post4/</link>
+    </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://example.com/post/post4/post4/</link>
+      <pubDate>Thu, 12 May 2022 16:16:48 +0300</pubDate>
+      <guid>https://example.com/post/post4/post4/</guid>
+      <description>&lt;p&gt;Markdown — язык разметки текстов. Такие тексты легко писать и читать. Их можно без труда сконвертировать в HTML. Большинство программистов предпочитают Markdown для написания документации, описаний своих проектов, написания блогов и так далее.&lt;/p&gt;
+&lt;p&gt;Что это значит?
+«Язык разметки» — это просто набор соглашений, правил.&lt;/p&gt;
+&lt;p&gt;Допустим, что вы общаетесь с другом по СМС. В них нельзя сделать текст жирным или наклонным. Вы договариваетесь с другом: если я пишу &lt;em&gt;что-то&lt;/em&gt; вот так между звездочками, то считай, что это наклонный текст. А если я пишу &lt;strong&gt;что-то&lt;/strong&gt; между двумя звездочками, то считай, что это жирный текст. Вы придумали правила.&lt;/p&gt;
+&lt;p&gt;Markdown — это набор подобных правил.&lt;/p&gt;
+&lt;p&gt;Интенсив: «Верстка веб-приложений». Вся база за 2 месяца
+Правила понятны разным программам и сайтам. Например, «Вопросы и ответы» в уроках на Хекслете поддерживают Markdown. Это значит, что вы можете писать туда тексты по правилам Markdown, а после нажатия «Отправить» разметка станет реальной: текст в одинарных звездочках станет наклонным, текст в двойных звездочках станет жирным и так далее. Это конвертация из Markdown в HTML.&lt;/p&gt;
+&lt;p&gt;Зачем это нужно?
+Для добавления разметки туда, где невозможна реальная разметка. Например, в простом текстовом файле или в тех же СМС, где невозможно выделение жирным, создание заголовков, выделение цитат и пр.
+Для более удобного написания текстов для последующей конвертации в HTML или другие форматы.
+Синтаксис Markdown
+Это краткий справочник основных элементов синтаксиса Markdown. Единого стандарта не существует и разные версии Markdown могут отличаться в деталях. Но базовые элементы из списка ниже поддерживаются во всех стандартах.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

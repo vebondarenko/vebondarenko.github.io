@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Academic</title>
+    <link>https://example.com/post/post3/</link>
+      <atom:link href="https://example.com/post/post3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 16:07:06 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/post/post3/featured.jpg</url>
+      <title>Posts</title>
+      <link>https://example.com/post/post3/</link>
+    </image>
+    
+    <item>
+      <title>участника экспедиции затянул водоворот?...</title>
+      <link>https://example.com/post/post3/post3/</link>
+      <pubDate>Thu, 12 May 2022 16:07:06 +0300</pubDate>
+      <guid>https://example.com/post/post3/post3/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Стартовавшая 17 июля в Оренбурге XVI российско-казахстанская историко-культурная, экологическая экспедиция по реке Урал остановлена в связи с происшествием, случившемся ночью 18 июля в палаточном лагере у места слияния Урала и Сакмары.
+Один из участников экспедиции, Ракомжан Жумабаев, главный инженер ФГУ «Государственный центр агрохимической службы «Оренбургский» (г.Оренбург) вышел за территорию лагеря после отбоя, предположительно, для купания в реке, и пропал без вести.
+В настоящее время ведутся поисковые работы, следственные органы проводят проверку по данному факту. Как сообщает ГУ МЧС по Оренбургской области, поиски ведутся как на суше, так и на воде.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
