@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>os | Academic</title>
+    <link>https://example.com/tag/os/</link>
+      <atom:link href="https://example.com/tag/os/index.xml" rel="self" type="application/rss+xml" />
+    <description>os</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>os</title>
+      <link>https://example.com/tag/os/</link>
+    </image>
+    
+    <item>
+      <title>Операционные системы</title>
+      <link>https://example.com/project/example2/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example2/</guid>
+      <description>&lt;p&gt;Операцио́нная систе́ма, сокр. ОС (англ. operating system, OS) — комплекс взаимосвязанных программ, предназначенных для управления ресурсами компьютера и организации взаимодействия с пользователем.&lt;/p&gt;
+&lt;p&gt;В логической структуре типичной вычислительной системы операционная система занимает положение между устройствами с их микроархитектурой, машинным языком и, возможно, собственными (встроенными) микропрограммами (драйверами) — с одной стороны — и прикладными программами с другой.&lt;/p&gt;
+&lt;p&gt;Разработчикам программного обеспечения операционная система позволяет абстрагироваться от деталей реализации и функционирования устройств, предоставляя минимально необходимый набор функций (см.: интерфейс программирования приложений).&lt;/p&gt;
+&lt;p&gt;В большинстве вычислительных систем операционная система является основной, наиболее важной (а иногда и единственной) частью системного программного обеспечения. С 1990-х годов наиболее распространёнными операционными системами являются системы семейства Windows, Unix и UNIX-подобные системы.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
